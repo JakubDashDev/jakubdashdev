@@ -66,6 +66,24 @@
 
 ###
 
+<h1 align="left">🌍 Socials</h1>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/jakub-cie%C5%9Blik-b79881319/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/kuba.cieslik.9/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
+  </a>
+  <a href="mailto:jakubdashdev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
 <h1 align="left">💼 Additional info</h1>
 
 ###
