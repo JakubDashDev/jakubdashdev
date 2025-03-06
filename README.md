@@ -102,8 +102,3 @@ Currently, I am working on my own product, which I am developing both technicall
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=JakubDashDev&&style=flat-square" align="center" />
 </div>  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
