@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Jakub, a hardworking and goal-oriented software engineer. My journey began four years ago, and I have a solid foundation in frontend development with design skills, as well as backend development with DevOps knowledge. Currently, I'm working on my own product, but I am actively seeking my first commercial experience.</p>
+<p align="left">I'm Jakub, a hardworking and goal-oriented software engineer. My journey began four years ago. During this time, I have built a solid foundation in frontend development, including design skills, as well as backend development with DevOps knowledge. Currently, I'm working on my own product, but I am actively seeking my first commercial experience.</p>
 
 ###
 
