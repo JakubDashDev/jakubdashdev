@@ -1,5 +1,5 @@
 # 👋 Hi There!
-<p align="left">I'm Jakub, a hardworking and goal-oriented software full-stack developer. My journey began five years ago. During this time, I have built a solid foundation in frontend development, including design skills, as well as backend development with DevOps knowledge.</p>
+<p align="left">I'm Jakub, a hardworking and goal-oriented Full-Stack Developer. I've been coding for five years, bringing a year of commercial experience to the table. During this time, I have built a solid foundation in frontend development and design. Currently, my main focus is on building robust backend solutions and applying DevOps practices.</p>
 
 
 # 💻 Tech Stack:
